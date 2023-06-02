@@ -1,0 +1,6 @@
+A:\Documents\MANUEL\CODE\Curso C# level 2\dataBases\domain\bin\Debug\domain.dll
+A:\Documents\MANUEL\CODE\Curso C# level 2\dataBases\domain\bin\Debug\domain.pdb
+A:\Documents\MANUEL\CODE\Curso C# level 2\dataBases\domain\obj\Debug\domain.csproj.AssemblyReference.cache
+A:\Documents\MANUEL\CODE\Curso C# level 2\dataBases\domain\obj\Debug\domain.csproj.CoreCompileInputs.cache
+A:\Documents\MANUEL\CODE\Curso C# level 2\dataBases\domain\obj\Debug\domain.dll
+A:\Documents\MANUEL\CODE\Curso C# level 2\dataBases\domain\obj\Debug\domain.pdb
